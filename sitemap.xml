@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://designandhype.dev/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.3.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.6" -->
+<!-- generated-on="11.02.2016 11:28 am" -->
+<!-- Debug: Total comment count: 0 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://designandhype.dev/</loc>
+		<lastmod>2012-01-23T18:25:14+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 82: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://designandhype.dev/2012/01/one-hour-per-second/</loc>
+		<lastmod>2012-01-23T18:25:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 94: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://designandhype.dev/2012/01/jelly-letters-by-m-inspira/</loc>
+		<lastmod>2012-01-23T18:22:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 90: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://designandhype.dev/2012/01/tilt-shift-photography-by-vincent-laforet/</loc>
+		<lastmod>2012-01-23T18:15:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://designandhype.dev/about/</loc>
+		<lastmod>2012-01-23T18:07:29+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 78: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://designandhype.dev/2012/01/for-the-trees/</loc>
+		<lastmod>2012-01-23T17:15:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 71: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://designandhype.dev/2012/01/mem-a-branded-wedding/</loc>
+		<lastmod>2012-01-23T17:12:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 46: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://designandhype.dev/2012/01/miniature-liquid-worlds-by-markus-reugels/</loc>
+		<lastmod>2012-01-23T16:12:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 62: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://designandhype.dev/2012/01/rally-interactive/</loc>
+		<lastmod>2012-01-22T23:43:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 53: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://designandhype.dev/2012/01/pooled-oil-paintings-by-matthew-davis/</loc>
+		<lastmod>2012-01-22T23:35:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 25: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://designandhype.dev/2012/01/icons-custom-toy-show/</loc>
+		<lastmod>2012-01-22T22:49:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 22: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://designandhype.dev/2012/01/pma-law/</loc>
+		<lastmod>2012-01-22T22:47:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 16: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://designandhype.dev/2012/01/central-avenue-type-specimen/</loc>
+		<lastmod>2012-01-22T22:40:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
