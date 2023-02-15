@@ -1,7 +1,7 @@
 {
-    "name": "creation",
-    "title": "Creation",
-    "description": "Website for Creation design agency.",
+    "name": "design-and-hype",
+    "title": "Design and Hype",
+    "description": "WordPress website for legacy project “Design and Hype” by Aaron Tolley & Trevor Morris.",
     "author": "Trevor Morris",
     "version": "1.0.0",
     "private": true,
@@ -19,6 +19,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/trovster/creation.trovster.com"
+        "url": "https://github.com/trovster/design-and-hype"
     }
 }
