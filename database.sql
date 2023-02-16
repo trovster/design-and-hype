@@ -5497,12 +5497,7 @@ CREATE TABLE IF NOT EXISTS `wp_users` (
 INSERT INTO `wp_users` (`ID`, `user_login`, `user_pass`, `user_nicename`, `user_email`, `user_url`, `user_registered`, `user_activation_key`, `user_status`, `display_name`) VALUES
 (1, 'designandhype', '', 'designandhype', 'hello@designandhype.com', '', '2012-01-16 15:42:20', '', 0, 'Design + Hype'),
 (2, 'trovster', '', 'trovster', 'hello@trovster.com', 'https://www.trovster.com', '2012-01-17 11:25:48', '', 0, 'Trevor Morris'),
-(3, 'aarontolley', '', 'aarontolley', 'at@aarontolley.co.uk', 'https://www.aarontolley.co.uk', '2012-01-17 11:26:30', '', 0, 'Aaron Tolley'),
-(4, 'dnewns', '', 'dnewns', 'didgy58@gmail.com', '', '2012-01-22 23:49:08', '', 0, 'Dan Newns'),
-(6, 'martinwright', '', 'martinwright', 'martin@mynameismartin.com', 'http://mynameismartin.com', '2012-01-23 22:54:37', 'tpNwLNpLySLw877bYR2f', 0, 'Martin Wright'),
-(9, 'helen', '', 'helen', 'helen@hmroberts.co.uk', 'http://www.hmroberts.co.uk', '2012-01-24 20:06:09', '', 0, 'Helen Roberts'),
-(11, 'jack', '', 'jack', 'jackbridgewatersmith@yahoo.co.uk', '', '2012-02-20 18:12:25', '', 0, 'Jack Smith'),
-(13, 'woolley', '', 'woolley', 'oliver@olivercharlesphotography.co.uk', 'http://www.olivercharlesphotography.co.uk', '2012-10-18 18:35:20', '', 0, 'woolley');
+(3, 'aarontolley', '', 'aarontolley', 'at@aarontolley.co.uk', 'https://www.aarontolley.co.uk', '2012-01-17 11:26:30', '', 0, 'Aaron Tolley');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
