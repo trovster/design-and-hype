@@ -17,7 +17,7 @@ DB_USER=designandhype
 You can set up the site using [Docker](https://www.docker.com);
 
 ```bash
-git clone https://github.com/trovster/design-and-hype.git creation
+git clone https://github.com/trovster/design-and-hype.git design-and-hype
 cd design-and-hype
 npm install
 npm run start -- --build
