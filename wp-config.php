@@ -15,7 +15,7 @@
  */
 
  define('DB_HOST', 'trovster_designandhype_mysql');
- define('DB_NAME', 'creation');
+ define('DB_NAME', 'designandhype');
  define('DB_USER', 'root');
  define('DB_PASSWORD', '');
  define('ENVIRONMENT', 'local');

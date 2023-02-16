@@ -4,6 +4,16 @@ WordPress website for legacy project “Design and Hype” by Aaron Tolley & Tre
 
 ## Installation
 
+You must create an `.env` with the following credentials;
+
+```env
+FORWARD_APP_PORT=8007
+FORWARD_DB_PORT=3322
+
+DB_DATABASE=designandhype
+DB_USER=designandhype
+```
+
 You can set up the site using [Docker](https://www.docker.com);
 
 ```bash
